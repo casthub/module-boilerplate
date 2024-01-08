@@ -1,0 +1,4 @@
+.module {
+  @tailwind components;
+  @tailwind utilities;
+}
