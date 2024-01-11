@@ -1,8 +1,6 @@
 import { useState } from 'react';
 
-import { useComponents, type Module } from '@casthub/runtime';
-
-import { cn } from './helpers';
+import { cn, useComponents, type Module } from '@casthub/runtime';
 
 import './globals.css';
 

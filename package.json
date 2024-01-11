@@ -6,13 +6,8 @@
     "typecheck": "tsc --noEmit",
     "lint": "eslint"
   },
-  "dependencies": {
-    "class-variance-authority": "^0.7.0",
-    "clsx": "^2.1.0",
-    "tailwind-merge": "^2.2.0"
-  },
   "devDependencies": {
-    "@casthub/runtime": "*",
+    "@casthub/runtime": "^1.0.0-alpha.1",
     "@ianvs/prettier-plugin-sort-imports": "^4.1.1",
     "@tailwindcss/typography": "^0.5.10",
     "@tailwindcss/forms": "^0.5.7",
